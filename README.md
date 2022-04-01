@@ -6,7 +6,7 @@ Submitted by: Fanny Li
 
 Time spent: 4 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com/edit/#!/guiltless-instinctive-honeycup)
+Link to project: https://glitch.com/edit/#!/guiltless-instinctive-honeycup
 
 ## Required Functionality
 
